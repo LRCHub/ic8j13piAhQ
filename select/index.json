@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Cruel Summer",
+  "base_artist": "",
+  "createdAt": "2026-02-11T00:53:35.539289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/01_Cruel_Summer_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "DJL",
+      "has_synced": false,
+      "path": "select/02_Cruel_Summer_DJL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/03_Cruel_Summer_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cruel Summer (12″ version)",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/04_Cruel_Summer_(12′′_version)_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cruel Summer - '89 Swing Beat Dub",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/05_Cruel_Summer_-_'89_Swing_Beat_Dub_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cruel Summer (’89 Swing Beat dub)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/06_Cruel_Summer_(’89_Swing_Beat_dub)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cruel Summer (Extended Version)",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/07_Cruel_Summer_(Extended_Version)_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Black Marble",
+      "has_synced": false,
+      "path": "select/08_Cruel_Summer_Black_Marble.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/09_Cruel_Summer_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/10_Cruel_Summer_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/11_Cruel_Summer_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/12_Cruel_Summer_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cruel Summer",
+      "artist": "Ace Of Base",
+      "has_synced": true,
+      "path": "select/13_Cruel_Summer_Ace_Of_Base.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cruel Summer (album version)",
+      "artist": "Ace of Base",
+      "has_synced": false,
+      "path": "select/14_Cruel_Summer_(album_version)_Ace_of_Base.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cruel Summer - Big Bonus Mix",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/15_Cruel_Summer_-_Big_Bonus_Mix_Ace_of_Base.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Cruel Summer - Blazin' Rhythm Remix",
+      "artist": "Ace of Base",
+      "has_synced": true,
+      "path": "select/16_Cruel_Summer_-_Blazin'_Rhythm_Remix_Ace_of_Base.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Cruel_Summer_Taylor_Swift.txt"
+    }
+  ]
+}
